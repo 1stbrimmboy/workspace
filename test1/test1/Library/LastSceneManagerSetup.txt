@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/in all honesty i didnt save this correctly the first time/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
