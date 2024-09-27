@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/their alcohol doesn't thrill me at all/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
