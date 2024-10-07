@@ -3,7 +3,12 @@ guid: 060a0b372f842254895990c43ab22e0d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Duck
+    second: {fileID: 2100000, guid: be7f87b0db32dd544b5cf86b6256dfec, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
